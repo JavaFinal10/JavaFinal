@@ -14,7 +14,7 @@ public class Main {
      System.out.println("Choose a number between 1 and 5 >>> ");
      System.out.println("");
      
-	 backStories.BackStory3.displayBackStory3();		
+	 backStories.BackStory1.displayBackStory1();	
 	}
 
 }
