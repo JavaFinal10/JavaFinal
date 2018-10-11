@@ -4,7 +4,7 @@ public class BackStory2 {
 
 	public static void displayBackStory2() {
 		// TODO Auto-generated method stub
-		System.out.println("You chose charcter 2, great choice!");
+	    System.out.println("You chose charcter 2, great choice!");
 		System.out.println("Your charcters name is Jake. Here is a few things you need to know about him: ");
 		System.out.println("");
 		System.out.println("When Jake started 7th grade Jake's family moved and Jake was forced to move to a new school."
