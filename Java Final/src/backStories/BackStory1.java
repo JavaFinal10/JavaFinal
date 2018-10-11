@@ -3,7 +3,7 @@ package backStories;
 public class BackStory1 {
 
 	public static void displayBackStory1() {
-		// TODO Auto-generated method stub
+		
      System.out.println("You chose charcter 1, great choice!");
      System.out.println("Your charcters name is Katie. Here is a few things you need to know about her: ");
      System.out.println("");
