@@ -17,8 +17,10 @@ public class Main {
      
      
      
-     if (userChoice == 1)
-	 backStories.BackStory1.displayBackStory1();	
+     if (userChoice == 1) {
+    	backStories.BackStory1.displayBackStory1();
+ 	indEncounters.indEncounter1.displayindEncounter1();
+ 	}
      else if(userChoice == 2) 
      {
     	backStories.BackStory2.displayBackStory2(); 
