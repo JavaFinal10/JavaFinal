@@ -38,5 +38,5 @@ public class Main {
      else
     	 System.out.print("Failure to choose a charcter just leaves them all stranded bud, ya killed em. Nice job. Applause for you 'rulebreaker'.");
 	}
-
+	
 }
