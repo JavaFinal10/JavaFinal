@@ -34,6 +34,29 @@ public class indEncounter1
 					+ "\nKatie is dragged away by the people and never heard from again."
 					+ "\nGAME OVER");
 		}
+		else if(userChoice == 2) 
+		{
+			System.out.println("Yea, probably a better choice for later. Katie begins walking the halls of the compound, hearing various people talking about  "
+					+ "these prisoners and how they must be contained. She passes a room with an open door, but when a light turns on she stops and looks at it, wondering if she should enter."
+					+ "\n1- Maybe there's something useful in there, I've gotta check."
+					+ "\n2- Better to stay away from possible traps, dodge the room.");
+			userChoice = input.nextInt();
+			if(userChoice == 1) 
+			{
+				System.out.println("You enter the room, and see some guards attire. After putting it on to hide from any roaming security, Katie notices the bag of cheese from earlier."
+						+ "\nTerrified, her heart sinks. She's afraid of the fact that the attire she's wearing is tainted by the cheese."
+						+ "\n1- Take it off, she could hyperventilate or something!"
+						+ "\n2- Deal with it, gotta get through somehow without drawing attention.");				
+				userChoice = input.nextInt();
+			}
+			else if(userChoice == 2) 
+			{
+				System.out.println("Ok, no chances taken today Katie. She begins walking away from the room when she hears some other security talking."
+						+ "\n'The one that fears cheese is out, we'll start planting some around the compound. Maybe she'll scream if she touches it, hehe.'"
+						+ "");
+			}
+			
+		}
 		
 
 	}
