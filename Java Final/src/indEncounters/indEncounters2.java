@@ -2,7 +2,7 @@ package indEncounters;
 
 public class indEncounters2 {
 
-	public static void main(String[] args) {
+	public static void displayindEncounter2() {
 		// TODO Auto-generated method stub
 
 	}
