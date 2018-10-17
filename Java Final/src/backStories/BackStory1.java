@@ -14,6 +14,7 @@ public class BackStory1 {
      		+ "\nShe knew she had to go and took a friend to go buy some. When she got there with her friend she seen cheeses she never seen before. "
      		+ "\nShe bought one she never heard of known as Casu Marzu (pecorino cheese filled with maggots and left to rot for three months). "
      		+ "\nShe took a bite into the cheese and then it all began. A intense phobia of cheese (known as Turophobia)!!!");
+     System.out.println("");
 	}
 
 }
