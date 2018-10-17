@@ -87,7 +87,6 @@ public class indEncounter1
 						{
 						System.out.println("Good idea on paper, bad idea when done. They track Katie as the source after the supposed distraction is threatened with a banana, and she is detained."
 								+ "\nGAME OVER");
-						System.out.println("Play again, keep tempting fate my friend.");
 						}
 					else if (userChoice == 3) 
 						{
@@ -111,6 +110,12 @@ public class indEncounter1
 							userChoice = input.nextInt();
 							
 							if (userChoice == 1) 
+								{
+								System.out.println("Kicking the guard off was a good idea, however the result of this action was not good. The plane steered toward the right, and out of the fog a bridge appeared. The plane hit the bridge and Katie went down."
+										+ "\nKatie had never thought she'd seen the Golden Gate up close, but now she was sitting on it. She admired its beauty, and then sighed in relief. No cheese was near her, but now she was stuck."
+										+ "\nEND");
+								}
+							else if (userChoice == 2) 
 								{
 								System.out.println("");
 								}
