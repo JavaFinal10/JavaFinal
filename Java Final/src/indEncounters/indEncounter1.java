@@ -117,10 +117,35 @@ public class indEncounter1
 								}
 							else if (userChoice == 2) 
 								{
-								System.out.println("");
+								System.out.println("The guard made the aircraft unstable, but not enough to harm the course. When the guard pulled out cheese, Katie fainted and fell off the plane, never to be seen again."
+										+ "\nGAME OVER");
 								}
 							}
 						}
+					}
+				}
+			else if (userChoice == 2) 
+				{
+				System.out.println("Going with the guard attire on, Katie exited the room. She continued on through the hallways and went to a door, which opened as she walked towards it."
+						+ "\nThere was a body, and a security room. In front of these was another giant door, which required a keycard. Which would be better to check?"
+						+ "\n1- Check the body, they won't need the keycard"
+						+ "\n2- Go into the security room, more chances to find a key.");
+				userChoice = input.nextInt();
+				
+				if (userChoice == 1) 
+					{
+					System.out.println("The body woke up, good thing Katie had the guard uniform on. The guard went off to another sector and gave Katie a keycard, which she used to open the door and find a large gate, with electrified barbed wire surrounding it."
+							+ "\nHow was she going to do this one?"
+							+ "\n1- Confront the security at the front and request access outside of the compound"
+							+ "\n2- Walk through without talking to the security.");
+					userChoice = input.nextInt();
+					System.out.println("Katie approached the gate, and it opened. Without her saying anything she walked out, and away from the compound."
+							+ "\nEND");
+					}
+				else if (userChoice == 2) 
+					{
+					System.out.println("Katie walked into the security room, and saw a large amount of cheese. She couldn't take it, more so her heart couldn't. Katie had a heart attack at the sight of the cheese, while wearing cheese tainted apparel."
+							+ "\nGAME OVER");
 					}
 				}
 			}
