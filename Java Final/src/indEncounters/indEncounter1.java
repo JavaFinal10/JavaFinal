@@ -2,6 +2,9 @@ package indEncounters;
 
 import java.util.Scanner;
 
+<<<<<<< HEAD
+	public static void main( {
+=======
 public class indEncounter1 
 {
 
@@ -179,6 +182,7 @@ public class indEncounter1
 			}
 			
 		}
+>>>>>>> 7033c98409a63afff02c2583ebdd5397ea4eb06f
 		
 
 	}
