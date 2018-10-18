@@ -1,20 +1,22 @@
 package backStories;
 
-public class BackStory3 {
+public class BackStory3 
+{
 
-	public static void displayBackStory3() {	
-	 System.out.println("You chose charcter 3, great choice!");
-	 System.out.println("Your charcters name is Josh. Here is a few things you need to know about him: ");
+	public static void displayBackStory3() {
+	
+		
+	 System.out.println("You chose charcter 4, great choice!");
+	 System.out.println("Your charcters name is Brandon. Here is a few things you need to know about him: ");
 	 System.out.println("");
-	 System.out.println("Josh's whole life he has been been afraid to die. "
-	 		+ "\nIt is his biggest fear and even if something has a 1% chance of death he will over react and become terrified."
-	 		+ "\nThis is a crushing fear for this charcter and can cause problems throughout the story."
-	 		+ "\nCertain choices throught the story will result in a panic attack for this character, and could put him in a detramental state."
-	 		+ "\nEven the mention of failure resulting in death could cause a heart attack. Sure would suck if he WERE to have one on this journey becuase of fear."
-	 		+ "\nIt all comes from him losing his parents at the end of his first year, he lived with his grandparents for a while."
-	 		+ "\nWhile a rational fear, it is a very over active one. Barely going outside in fear of death, he hermits himself in fear."
-	 		+ "\nThis event led our character Josh to have Thanatophobia, or the fear of death.");
-	 
+	 System.out.println("Our character here, Brandon is afraid of something that's pretty irrational. His fear"
+	 		+ "like most of our characters' fears stems from childhood trauma. This event involved him trying a cotton ball diet for a science project"
+	 		+ "and almost dying because of it. Not because the diet doesn't work and is bad for people, but because he almost choked to death on the cotton ball."
+	 		+ "\nThis is something that plagues Brandon to the fullest extent, in which he's fainted in his bathroom just from seeing them."
+	 		+ "\nSure would be a shame if he were to be terrified of a healing agent placed on a cotton ball during this adventure..."
+	 		+ "\nBecause of the event, Brandon was left with Sidonglobophobia, a fear of cotton balls.");
 	}
 
-}
+		
+	}
+
