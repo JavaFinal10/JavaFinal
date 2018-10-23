@@ -2,9 +2,6 @@ package indEncounters;
 
 import java.util.Scanner;
 
-<<<<<<< HEAD
-	public static void main( {
-=======
 public class indEncounter1 
 {
 
@@ -148,7 +145,7 @@ public class indEncounter1
 				else if (userChoice == 2) 
 					{
 					System.out.println("Katie walked into the security room, and saw a large amount of cheese. She couldn't take it, more so her heart couldn't. Katie had a heart attack at the sight of the cheese, while wearing cheese tainted apparel."
-							+ "\nGAME OVER");
+							+ "\nGAME OVER.");
 					}
 				}
 			}
@@ -182,7 +179,6 @@ public class indEncounter1
 			}
 			
 		}
->>>>>>> 7033c98409a63afff02c2583ebdd5397ea4eb06f
 		
 
 	}
