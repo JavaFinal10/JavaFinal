@@ -2,6 +2,10 @@ package indEncounters;
 
 import java.util.Scanner;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1ce3cb32512f7643f482d0160d3609312414e961
 public class indEncounter1 
 {
 
@@ -179,6 +183,10 @@ public class indEncounter1
 			}
 			
 		}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1ce3cb32512f7643f482d0160d3609312414e961
 		
 
 	}
