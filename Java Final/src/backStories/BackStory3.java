@@ -6,7 +6,7 @@ public class BackStory3
 	public static void displayBackStory3() {
 	
 		
-	 System.out.println("You chose charcter 4, great choice!");
+	 System.out.println("You chose charcter 3, great choice!");
 	 System.out.println("Your charcters name is Brandon. Here is a few things you need to know about him: ");
 	 System.out.println("");
 	 System.out.println("Our character here, Brandon is afraid of something that's pretty irrational. His fear"

@@ -1,10 +1,16 @@
 package indEncounters;
 
-public class indEncounter2 {
+import java.util.Scanner;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public class indEncounter2 
+{
 
+	public static void main(String[] args) 
+	{
+		Scanner input = new Scanner(System.in);
+		int userChoice;
+		
+
+		
 	}
-
 }
