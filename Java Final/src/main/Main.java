@@ -24,10 +24,12 @@ public class Main {
      else if(userChoice == 2) 
      {
     	backStories.BackStory2.displayBackStory2(); 
+    	indEncounters.indEncounter2.displayindEncounter2();
      }
      else if(userChoice == 3) 
      {
     	backStories.BackStory3.displayBackStory3();
+    	indEncounters.indEncounter3.displayindEncounter3();
      }
      
      else

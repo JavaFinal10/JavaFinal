@@ -59,7 +59,7 @@ public class indEncounter2
 			if (userChoice == 1) 
 				{
 				System.out.println("Yea, best to get this off. Sneakier without it anyway. Jake removes the guards outfit and continues on with his quest. He hears what sounds like someone yelling, probably got caught."
-						+ "\nIt doesn't bother Katie, she's focused on getting out without being detained. As she makes her way through the hallway she sees through the door windows different items. Items you'd normally have at home."
+						+ "\nIt doesn't bother Jake, he's focused on getting out without being detained. As he makes his way through the hallway he sees through the door windows different items. Items you'd normally have at home."
 						+ "\nCotton balls, cheese, and...mannequins? Odd, but he presses on, mainly in fear that there'll be a room filled with bananas."
 						+ "\nJake comes to a crossroads when he finds a large door that requires a keycard. There's a body next to him on the right, but there's a security room on the left."
 						+ "\n1- Check the body, they wouldn't need the keycard anymore."
